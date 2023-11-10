@@ -59,7 +59,7 @@
     color: rgb(217, 243, 240);
 }
 
-.active {
+.container nav.navbar ul.navbar-nav li.nav-item a.active {
     color: rgb(71, 71, 150);
     font-weight: bold;
 }
